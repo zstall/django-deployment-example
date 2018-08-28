@@ -26,7 +26,7 @@ SECRET_KEY = '-c11z40*s=3x&y17+j_wy@54+_e4(o2o1qd)dr8nj@^vockrxg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['zstall.pythonanywhere.com',]
 
 
 # Application definition
